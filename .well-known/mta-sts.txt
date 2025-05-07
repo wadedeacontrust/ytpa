@@ -1,0 +1,6 @@
+Version:STSv1
+Mode:testing
+mx:d216696.a.ess.uk.barracudanetworks.com
+mx:d216696.b.ess.uk.barracudanetworks.com
+mx:d216696.o.ess.uk.barracudanetworks.com
+Max_age:1800
